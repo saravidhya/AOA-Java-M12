@@ -1,4 +1,4 @@
-# EX 1C Job Sequencing using Greedy Approach
+# EX 2C Job Sequencing using Greedy Approach
 
 ## AIM:
 
